@@ -15,5 +15,5 @@ My name is Ertuğrul Reisoğlu and I'm Physics Engineer & Data Scientist. I'm fr
 ![Ertugrul's github stats](https://github-readme-stats.vercel.app/api?username=REISOGLU53&show_icons=true&theme=darcula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=REISOGLU53&layout=compact&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=REISOGLU53)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=REISOGLU53&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 
