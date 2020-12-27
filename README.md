@@ -12,4 +12,5 @@ My name is Ertuğrul Reisoğlu and I'm Physics Engineer & Data Scientist. I'm fr
 [2]: https://www.linkedin.com/in/ertuğrul-r-2a45881a5/
 
 # Github
-![Ertugrul's github stats](https://github-readme-stats.vercel.app/api?username=REISOGLU53&show_icons=true)
+![Ertugrul's github stats](https://github-readme-stats.vercel.app/api?username=REISOGLU53&show_icons=truetheme=title_color)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=title_color)
