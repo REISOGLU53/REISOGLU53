@@ -20,5 +20,5 @@ My name is Ertuğrul Reisoğlu and I'm Physics Engineer & Data Scientist. I'm fr
 
 
 
-[![Ertugrul's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![Ertugrul's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=REISOGLU53)](https://github.com/anuraghazra/github-readme-stats)
 
