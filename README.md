@@ -34,5 +34,5 @@ My name is Ertuğrul Reisoğlu and I'm Physics Engineer & Data Scientist. I'm fr
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=REISOGLU53&show_icons=true&theme=darcula" />
 </a>
 <a href="https://github.com/REISOGLU53/ERTUGRULREISOGLU">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=REISOGLU53&show_icons=true&theme=darcula" alt="Ertugrul's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=REISOGLU53&layout=compact&show_icons=true&theme=darcula" alt="Ertugrul's GitHub Stats" />
 </a>
