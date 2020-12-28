@@ -14,3 +14,5 @@ My name is Ertuğrul Reisoğlu and I'm Physics Engineer & Data Scientist. I'm fr
 # Github
 ![Ertugrul's github stats](https://github-readme-stats.vercel.app/api?username=REISOGLU53&show_icons=true&theme=darcula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=REISOGLU53&layout=compact&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
+
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
