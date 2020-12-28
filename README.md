@@ -26,13 +26,10 @@ My name is Ertuğrul Reisoğlu and I'm Physics Engineer & Data Scientist. I'm fr
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
 # 📈 Github Stats
-![Ertugrul's github stats](https://github-readme-stats.vercel.app/api?username=REISOGLU53&show_icons=true&theme=darcula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=REISOGLU53&layout=compact&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<a href="https://github.com/REISOGLU53/ERTUGRULREISOGLU">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=REISOGLU53&layout=compact&show_icons=true&theme=darcula" />
-</a>
 <a href="https://github.com/REISOGLU53/ERTUGRULREISOGLU">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=REISOGLU53&layout=compact&show_icons=true&theme=darcula" alt="Ertugrul's GitHub Stats" />
+</a>
+<a href="https://github.com/REISOGLU53/ERTUGRULREISOGLU">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=REISOGLU53&layout=compact&show_icons=true&theme=darcula" />
 </a>
